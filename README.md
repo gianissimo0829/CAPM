@@ -7,4 +7,4 @@ This project involves developing a simple Python model to analyze asset risk usi
 - **CAPM Calculations**: Calculates beta, expected return, and risk-adjusted performance.
 - **Integration with yfinance**: Fetches stock data using yfinance.
 - **Log Returns**: Applies log returns to the stock data.
-- **Visualization**: Visualizes CAPM insights to support quantitative finance, risk assessment, and portfolio optimization.
+- **Visualization**: Visualizes CAPM insights to support quantitative analysis, risk assessment, and portfolio optimization.
